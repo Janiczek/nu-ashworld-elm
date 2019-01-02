@@ -33,6 +33,8 @@ It is still very much in flux and less-than-alpha quality. Expect whatever progr
 - [ ] Player auction house / market / Grand Exchange / whatever you want to call it
 - [ ] Investigate bidirectional websockets in Elm 0.19 ([somebody did it like this](https://github.com/danneu/elm-mmo))
 
+- [ ] Server in Haskell? https://haskell-servant.github.io/
+
 ## Done:
 
 See [CHANGELOG.md](https://github.com/Janiczek/nu-ashworld/blob/master/CHANGELOG.md)
