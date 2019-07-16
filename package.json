@@ -17,9 +17,6 @@
     "push": "yarn push:master && yarn push:client && yarn push:server"
   },
   "main": "dist/server.js",
-  "engines": {
-    "node": "10.6.0"
-  },
   "dependencies": {
     "pg": "^7.4.3"
   },
